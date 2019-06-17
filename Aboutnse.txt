@@ -1,4 +1,5 @@
 NSE-National Stock Exchange
 It is the world 11th place company, that is located in mumbai.
 comparitively NSE is better than BSE
+The NSE index value is less than BSE.
 thank you
